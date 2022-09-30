@@ -11,7 +11,7 @@ $mahasiswa = query("SELECT * FROM mahasiswa");
 
 <body>
 
-	<h1>Daftar Mahasiswa Informatika UNPAS</h1>
+	<h1>Daftar Mahasiswa</h1>
 
 	<a href="tambah.php">Tambah data mahasiswa</a>
 	<br><br>
