@@ -7,6 +7,7 @@ $mahasiswa = query("SELECT * FROM mahasiswa");
 
 <head>
 	<title>Halaman Admin</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
